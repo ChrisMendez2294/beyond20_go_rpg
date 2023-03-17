@@ -1,0 +1,15 @@
+*~
+*.pyj-cached
+web-ext-artifacts
+.vscode
+Gemfile*
+package-lock.json
+manifest_chrome.json
+docs/run.sh
+docs/vendor
+docs/.bundle
+pyj/node_modules/
+node_modules/
+.idea/
+build/
+dist/
